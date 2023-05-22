@@ -1,6 +1,6 @@
 body {
   background-color: black;
-  background-image: url(bg.jpg);
+  background-image: url(https://garden.spoonflower.com/c/12751950/p/f/m/RHATpcE4l0gerdUkTpHbBYF_29LrMeWX85Bu3YxlfZOOQdmsR0jO1R8/Black%20and%20White%20Stripe%201%22.jpg);
 }
 
 p {
@@ -21,8 +21,9 @@ h1 {
   background-color: white;
   padding: 5px;
   border: solid;
-  border-color: green;
+  border-color: black;
   width: fit-content;
+  float: left;
 }
 
 .icons {
@@ -30,13 +31,14 @@ h1 {
   padding: 2px;
   width: fit-content;
   height: fit-content;
+  left: 0;
 }
 
 .up {
   background-color: white;
   padding: 5px;
   border: solid;
-  border-color: green;
+  border-color: black;
   color: darkgreen;
   width: fit-content;
   height: fit-content;
@@ -47,7 +49,7 @@ h1 {
   background-color: white;
   padding: 5px;
   border: solid;
-  border-color: green;
+  border-color: black;
   color: darkgreen;
   bottom: 0;
   left: 0;
