@@ -26,8 +26,10 @@ h1 {
 }
 
 .icons {
-  background-color: white;
+  background-color: yellow;
   padding: 2px;
+  width: fit-content;
+  height: fit-content;
 }
 
 .up {
