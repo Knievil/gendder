@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+  background-image: url(bg.jpg);
+}
+
+p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  color: green;
+}
+
+h1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  color: green;
+}
+
+/* container hell*/
+
+.blurb {
+  background-color: white;
+  padding: 5px;
+  border: solid;
+  border-color: green;
+  width: fit-content;
+}
+
+.icons {
+  background-color: white;
+  padding: 2px;
+}
+
+.up {
+  background-color: white;
+  padding: 5px;
+  border: solid;
+  border-color: green;
+  color: darkgreen;
+  width: fit-content;
+  height: fit-content;
+  float: right;
+}
